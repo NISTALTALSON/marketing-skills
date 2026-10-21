@@ -1,0 +1,8 @@
+﻿Local matching skill directories copied: 112
+Local files copied: 173
+Online files downloaded: 800
+
+Online sources:
+https://github.com/coreyhaines31/marketingskills
+https://github.com/Jakeschincariol/founder-skill
+
